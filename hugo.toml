@@ -1,0 +1,34 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-uk'
+title = 'Fátima Rosa'
+theme = 'm10c'
+
+
+[params]
+  # Author
+  author = "Fátima Rosa"
+  # Description
+  description = "Data Analyst | Data Scientist"
+  # Social links
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/fmsrosa"
+  [[params.social]]
+    icon = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/fmrosa/"
+    
+[params.style]
+  darkestColor = "#e0e4e8"
+  darkColor = "#FFFFF0"
+  lightColor = "#333333"
+  lightestColor = "#003366"
+  primaryColor = "#CB8E00"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
