@@ -43,6 +43,7 @@ Brief analysis of customer transactions dataset, including RFM (Recency-Frequenc
 [<i class="fab fa-github"></i> Code](https://github.com/fmsrosa/Website-design-A-B-testing)
 
 My submission to the competition "Was a Website Redesign Successful?" evaluates four website designs using A/B testing, recommending the most effective one with 95% confidence and including probabilities for Type I and Type II errors.
+
 It also serves as a tutorial on A/B testing using z-scores and power analysis.
 
 ### Data Cleaning and translation project - *Retail Turnover Index in Portugal*
@@ -67,7 +68,7 @@ Capstone of Datacamp Data Analyst Certification aimed at improving boat listing 
 I was given 24h to prepare a 8-slides presentation for the Head of Marketing (non-technical), which I then presented during a 10-minute video call.
 
 
-### Data Scraping and Visualization project - *Lisbon Vacation Rentals: Data Scraping and Visualization*
+### *Lisbon Vacation Rentals: Data Scraping and Visualization*
 
 [<i class="fab fa-github"></i> Code](https://github.com/fmsrosa/scraped_listings)
 
@@ -81,7 +82,9 @@ Visualization created in Tableau using sunburst, butterfly, and circle grid char
 [<i class="fab fa-github"></i> Code and Final Report](https://github.com/fmsrosa/IBM-Data-Science)
 
 Final assignments from the IBM Data Science course, including the capstone project.
+
 The capstone project involved identifying prime locations for a new Japanese restaurant in Madrid using Foursquare data, with sites clustered and evaluated via K-means.
+
 Files are named by course and include additional details as needed (e.g., report).
 
 
