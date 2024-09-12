@@ -15,9 +15,19 @@ Passionate about data, I also work on analytics and machine learning projects in
 
 (from newest to oldest)
 
+### Understanding Diabetes Incidence: Feature Selection, Hyperparameter Tuning and Model Evaluation
+
+[<i class="fas fa-chart-area"></i> Report](https://www.datacamp.com/datalab/w/906bc7be-049d-4572-9ed7-61b7dc8922bb)
+
+[<i class="fas fa-code"></i> Code](https://www.datacamp.com/datalab/w/906bc7be-049d-4572-9ed7-61b7dc8922bb/edit)
+
+Integrated a medical dataset to analyze diabetes incidence, performed feature selection, and tuned hyperparameters of Decision Tree, Logistic Regression, and XGBoost models using coarse-to-fine and Bayesian optimization approaches to enhance recall scores.
+
 ### Optimizing Traffic Flow in New York City: Predictive Modeling and Strategic Insights from Telemetry Data
 
 [<i class="fas fa-chart-area"></i> Report](https://www.datacamp.com/datalab/w/bbed1362-0471-4255-8e9c-1d30be4c1284)
+
+[<i class="fas fa-code"></i> Code](https://www.datacamp.com/datalab/w/bbed1362-0471-4255-8e9c-1d30be4c1284/edit)
 
 Integrated a dataset containing telemetry data from two taxi drivers in New York with geographical data, developed Random Forest, Stochastic Gradient Boosting, and XGBoost models to predict trip duration, and provided recommendations for New York City and the taxi company.
 
