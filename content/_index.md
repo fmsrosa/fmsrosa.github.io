@@ -15,6 +15,14 @@ Passionate about data, I also work on analytics and machine learning projects in
 
 (from newest to oldest)
 
+### Feedback Submission Platform with Streamlit, EC2, and S3 Integration
+
+[<i class="fab fa-github"></i> Code](https://github.com/fmsrosa/streamlit_rfm_app)
+
+Developed a Streamlit web application hosted on an AWS EC2 instance. The app presents users with a table and prompts them to enter their name and opinion for each row. Once users are satisfied with their inputs, they can submit the data using a submit button.
+
+Upon submission, the data is saved to a pre-configured Amazon S3 bucket when running on EC2. If S3 is inaccessible, the data is stored locally as a fallback.
+
 ### Understanding Diabetes Incidence: Feature Selection, Hyperparameter Tuning and Model Evaluation
 
 [<i class="fas fa-chart-area"></i> Report](https://www.datacamp.com/datalab/w/906bc7be-049d-4572-9ed7-61b7dc8922bb)
