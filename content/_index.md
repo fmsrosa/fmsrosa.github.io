@@ -14,6 +14,16 @@ Passionate about data, I also work on analytics and machine learning projects in
 
 (from newest to oldest)
 
+### Gender Classification from Names Using Bidirectional LSTM and Attention Mechanism using PyTorch
+
+[<i class="fab fa-kaggle"></i> Kaggle Notebook](https://www.kaggle.com/code/adiugm/gender-classification-bilstm-attention)
+
+Classified names by gender using a Bidirectional LSTM combined with a simple attention mechanism, using PyTorch. 
+
+The dataset consists of first names, which are encoded into integer sequences. The model processes these sequences to predict gender, with the output being a probability of male or female. 
+
+Performance is evaluated using metrics like accuracy, F1 score, and ROC AUC.
+
 ### Feedback Submission Platform with Streamlit, EC2, and S3 Integration
 
 [<i class="fab fa-github"></i> Code](https://github.com/fmsrosa/streamlit_rfm_app)
