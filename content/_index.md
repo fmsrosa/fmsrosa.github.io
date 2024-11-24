@@ -14,6 +14,20 @@ Passionate about data, I also work on analytics and machine learning projects in
 
 (from newest to oldest)
 
+### Solving Classic Childhood Games with OpenCV and scikit-image
+
+Explored image processing with Python by solving childhood puzzles. 
+
+Using OpenCV and scikit-image, spotted differences in images by comparing their structural similarity, solved mazes through basic image transformations, and detected objects regardless of scale via template matching.
+
+[<i class="fas fa-chart-area"></i> Spot the differences (report)](https://www.datacamp.com/datalab/w/9fc379b5-61ee-41c8-93a7-7a33a6fb8921/report/spot_the_differences.ipynb)
+
+[<i class="fas fa-chart-area"></i> Solve the maze (report)](https://www.datacamp.com/datalab/w/9fc379b5-61ee-41c8-93a7-7a33a6fb8921/report/solve_the_maze.ipynb)
+
+[<i class="fas fa-chart-area"></i> Find the object (report)](https://www.datacamp.com/datalab/w/9fc379b5-61ee-41c8-93a7-7a33a6fb8921/report/find_object.ipynb)
+
+[<i class="fas fa-code"></i> Code(on the right panel)](https://www.datacamp.com/datalab/w/9fc379b5-61ee-41c8-93a7-7a33a6fb8921/edit)
+
 ### Gender Classification from Names Using Bidirectional LSTM and Attention Mechanism using PyTorch
 
 [<i class="fab fa-kaggle"></i> Kaggle Notebook](https://www.kaggle.com/code/adiugm/gender-classification-bilstm-attention)
