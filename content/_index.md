@@ -14,6 +14,12 @@ Passionate about data, I also work on analytics and machine learning projects in
 
 (from newest to oldest)
 
+### Price Model deployed on GCP using Docker
+
+[<i class="fab fa-github"></i> Code](https://github.com/fmsrosa/dynamic_pricing_app)
+
+Created a Gradio web app, containerized it with Docker, registered the image in Google Artifact Registry, and deployed it on Google Cloud Run.
+
 ### Solving Classic Childhood Games with OpenCV and scikit-image
 
 Explored image processing with Python by solving childhood puzzles. 
@@ -28,7 +34,7 @@ Using OpenCV and scikit-image, spotted differences in images by comparing their 
 
 [<i class="fas fa-code"></i> Code (on the right panel)](https://www.datacamp.com/datalab/w/9fc379b5-61ee-41c8-93a7-7a33a6fb8921/edit)
 
-### Gender Classification from Names Using Bidirectional LSTM and Attention Mechanism using PyTorch
+### Gender Classification with BiLSTM and Attention Mechanism (PyTorch)
 
 [<i class="fab fa-kaggle"></i> Kaggle Notebook](https://www.kaggle.com/code/adiugm/gender-classification-bilstm-attention)
 
